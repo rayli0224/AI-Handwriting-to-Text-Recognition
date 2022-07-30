@@ -1,0 +1,4 @@
+tensorflow
+emnist
+opencv-python
+torch
